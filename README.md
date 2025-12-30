@@ -1,6 +1,4 @@
 # **Parameter-Efficient Sentiment Classification in E-Governance Using LoRA and Domain-Grounded Synthetic Data**
-This repository contains the official implementation and synthetic dataset for the research paper:
-"Parameter-Efficient Sentiment Classification in E-Governance using LoRA and Domain-Grounded Synthetic Data."
 
 ## **Overview**
 Automated sentiment analysis of policy consultation comments is challenging due to technical language and data scarcity. We propose a framework that:
